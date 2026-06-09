@@ -1,5 +1,3 @@
-# Task-3-Linear-Regression
-House Price Prediction using Linear Regression
 # Task 3: Linear Regression
 
 ## Objective
